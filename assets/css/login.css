@@ -1,4 +1,7 @@
-
+@font-face{
+  font-family:'Texa-Heavy';
+   src: url(fonts/Texta-Heavy.ttf);
+}
 .logo_container {
   margin-top: 100px;
   margin-left: 38px;
@@ -65,5 +68,6 @@ input.form-control.transparent ::-ms-input-placeholder {
   border-radius: 14px;
    color:white;
    font-size:21px;
+  font-family:Texta-Heavy;
   background-color: #878b98;
 }
