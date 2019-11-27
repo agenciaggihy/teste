@@ -1,0 +1,89 @@
+    @font-face{
+  font-family:'Texa-Regular';
+   src: url(fonts/Texta-Heavy.ttf);
+}
+      .medal{
+    margin-left: 32px;
+    margin-top: 32px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #fff;
+  }
+  .medal img{margin-left: 32px;
+    margin-top: 32px;}
+      .formulario{
+    margin-left: 226px;
+    margin-top: -117px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #fff;
+  }
+  .medal h4{
+    margin-top: 32px;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 28.8px;
+    text-align: center;
+    font-family: Texta-Regular;
+    color: #373f54;
+  }
+    .formulario h4{
+    margin-top: 32px;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 28.8px;
+    text-align: center;
+    font-family: Texta-Regular;
+    color: #373f54;
+  }
+    .secury h4{
+    margin-top: 36px;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 28.8px;
+    text-align: center;
+    font-family: Texta-Regular;
+    color: #373f54;
+  }  
+  .forum h4{
+    margin-top: 36px;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 28.8px;
+    text-align: center;
+    font-family: Texta-Regular;
+    color: #373f54;
+  }
+  .formulario img{margin-left: 32px;
+    margin-top: 32px;}
+   .security{
+    margin-left: 32px;
+    margin-top: 51px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #fff;
+  }
+  .security img{margin-left: 32px;
+    margin-top: 32px;}
+         .forum{
+    margin-left: 226px;
+    margin-top: -117px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: #fff;
+  }
+   .security h4{
+    margin-top: 32px;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 28.8px;
+    text-align: center;
+    font-family: Texta-Regular;
+    color: #373f54;
+  }
+  .forum img{margin-left: 32px;
+    margin-top: 32px;}

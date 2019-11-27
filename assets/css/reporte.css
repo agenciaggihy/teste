@@ -1,0 +1,74 @@
+@font-face{
+  font-family:'Texa-Heavy';
+   src: url(fonts/Texta-Heavy.ttf);
+}
+@font-face{
+  font-family:'Texa-Regular';
+   src: url(fonts/Texta-Regular.ttf);
+}
+.logo-profile {
+    margin: 0px;
+  }
+  .logo-profile .vector {
+    width: 100%;
+  }
+  .logo-profile .vector.white {
+    background: #373f54;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  div.logo {
+    position: absolute;
+    top: 24px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    transition: all .5s;
+    transform: rotate(-360deg);
+  }
+  .logo-profile .vector.profile {
+    margin-top: 65px;
+  }
+   .profile-container {
+    display: none;
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+   .profile-container img.avatar{
+      width: 61%;
+  }
+
+  .input-group button.editar {
+    width: 300px;
+    max-width: 100%;
+    height: 54px;
+    border: none !important;
+    border-radius: 14px;
+    background-color: #babf1c;;
+    color: #ffffff;
+    font-family: Texta-Heavy;    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: 1.05px;
+    line-height: 28.8px;
+    margin-left:27px;
+  margin-top:178px;}
+.input-group button.concluido {
+    width: 300px;
+    max-width: 100%;
+    height: 54px;
+    border: none !important;
+    border-radius: 14px;
+    background-color: #878b98;
+    color: #ffffff;
+    font-family: Texta-Heavy;
+    font-size: 21px;
+    font-weight: 800;
+    letter-spacing: 1.05px;
+    line-height: 28.8px;
+    margin-left:27px;
+    margin-top: 29px;
+}
