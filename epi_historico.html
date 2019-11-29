@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+
+    <!-- CSS Root -->
+    <link rel="stylesheet" href="./assets/css/root.css" />
+    <link rel="stylesheet" href="./assets/css/epi_historico.css" />
+    <link rel="stylesheet" href="./assets/css/menu.css" />
+
+    <title>Novo</title>
+  </head>
+  <body class="concrete">
+    <div class="logo-profile">
+      <img src="./assets/img/vector-top.svg" class="vector white" alt="" />
+      
+    </div>
+    <div class="logo">
+      <img src="./assets/img/logo.svg" />
+    </div>
+       <div class=" historico" style="display: flex; opacity: 1;">
+          <div class="card">
+            <div class="content">
+              <div class="body">
+                <h6 class="title">Capacete</h6>
+                <h6 class="subtitle">Entregue no dia 00/00/00</h6>
+             
+              </div>
+            </div>
+            </div>
+          </div>
+                 <div class=" historico" style="display: flex; opacity: 1;">
+          <div class="card">
+            <div class="content">
+              <div class="body">
+                <h6 class="title">Capacete</h6>
+                <h6 class="subtitle">Entregue no dia 00/00/00</h6>
+             
+              </div>
+            </div>
+            </div>
+          </div>
+                 <div class=" historico" style="display: flex; opacity: 1;">
+          <div class="card">
+            <div class="content">
+              <div class="body">
+                <h6 class="title">Capacete</h6>
+                <h6 class="subtitle">Entregue no dia 00/00/00</h6>
+             
+              </div>
+            </div>
+            </div>
+          </div>
+          <div class="menu" id="menu">
+      <div class="item active">
+        <div class="body">
+          <img src="./assets/img/user_profile_active.svg" />
+          <p >Perfil</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="body">
+          <img src="./assets/img/report.svg" />
+          <p id="reporte">Reportar</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="body">
+          <img src="./assets/img/epis.svg" />
+          <p id="epis">EPI's</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="body">
+          <img id="menu" src="./assets/img/plus.svg" />
+        </div>
+      </div>
+    </div>
+  </body>
+  </body>
+
+  <!-- JavaScript (Opcional) -->
+  <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"
+  ></script>
+  <script src="./assets/js/profile.js"></script>
+    <script src="./assets/js/link.js"></script>
+
+</html>
+<style>
+  .historico {
+    transition: all 1s;
+    display: none;
+    opacity: 0;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+.historico .card .content {
+    display: -webkit-box;
+    text-align: left;
+    width: 315px;
+    height: 79px;
+  }
+.historico .card .content .body {
+    width: 70%;
+    padding: 11px;
+  }
+.historico .card .content .body .title {
+    color: #373f54;
+    font-family: Texta;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 21px;
+  }
+.historico .card .content .body .subtitle {
+    color: #373f54;
+    font-family: Texta;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.8px;
+    line-height: 16px;
+  }
+  
+.historico .card .pontos {
+    width: 30%;
+    padding: 11px;
+  }
+.historico .card .pontos div {
+    height: 100%;
+    border-left: 4px solid #babf1c;
+  }
+  
+.historico .card .pontos div h1,
+  p {
+    text-align: right;
+  }
+.historico .card .pontos div p {
+    padding-top: 0px;
+    margin: 0px;
+  }
+.historico .card .pontos div h1 {
+    padding-top: 10px;
+    margin: 0px;
+    color: #babf1c;
+  }
+  
+.historico .card .footer {
+    height: 36px;
+  }
+.historico .card .footer div {
+    border-top: 1px solid #c8cad0;
+    margin: 0px 10px;
+  }
+.historico .card .footer div img {
+    padding: 10px;
+  }
+  
+</style>
