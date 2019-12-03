@@ -1,0 +1,55 @@
+@font-face{
+  font-family:'Texa-Heavy';
+   src: url(fonts/Texta-Heavy.ttf);
+   font-size:21px;
+}
+@font-face{
+  font-family:'Texa-Regular';
+   src: url(fonts/Texta-Regular.ttf);
+}
+body {
+  background: #373f54;
+}
+body.concrete {
+  background: #f2f2f2;
+}
+
+.logo_container.lite {
+  margin-top: 42px;
+  margin-left: 108px;
+  margin-right: 108px;
+  text-align: center;
+}
+.logo_container.lite .onisys_logo {
+  width: auto;
+  max-width: 100%;
+  max-height: 30px;
+}
+
+.form-footer {
+  position: absolute;
+  bottom: 0px;
+  padding: 30px;
+}
+
+.text-16 {
+  height: 20px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  font-family: Texta-Regular;
+}
+
+.text-21 {
+  color: #ffffff;
+  font-family: Texta;
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: 1.05px;
+  line-height: 24px;
+}
+.italic {
+  font-family: 'Texa-Heavy';
+}

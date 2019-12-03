@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="54" viewBox="0 0 64 54">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#373f54}.cls-1{fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="chat_Convertido_" data-name="chat [Convertido]">
+        <path id="Caminho_165" d="M80.4 80.5a3.4 3.4 0 0 0-3.4 3.334v27.2a3.4 3.4 0 0 0 3.4 3.467h2.667v10L93 114.5h10v-3H92l-6 6v-6h-4a1.96 1.96 0 0 1-1.96-1.96V85.447a1.96 1.96 0 0 1 1.96-1.96h40.08a1.96 1.96 0 0 1 1.96 1.96V98.5h3V83.833a3.4 3.4 0 0 0-3.373-3.333z" class="cls-1" data-name="Caminho 165" transform="translate(-77 -80.5)"/>
+        <path id="Caminho_166" d="M130.586 95.5A3.4 3.4 0 0 1 134 98.85v17.2a3.4 3.4 0 0 1-3.4 3.4h-2.667v10.067l-9.987-10H101.4A3.4 3.4 0 0 1 98 116.1V98.85a3.4 3.4 0 0 1 3.4-3.4zm-1.56 21a1.96 1.96 0 0 0 1.96-1.96v-14.08a1.96 1.96 0 0 0-1.96-1.96H102.96a1.96 1.96 0 0 0-1.96 1.96v14.08a1.96 1.96 0 0 0 1.96 1.96h16l5.987 6v-6z" class="cls-1" data-name="Caminho 166" transform="translate(-70 -75.517)"/>
+        <path id="Retângulo_103" d="M0 0h34v2H0z" class="cls-2" data-name="Retângulo 103" transform="translate(8 11.987)"/>
+        <path id="Retângulo_104" d="M0 0h18v2H0z" class="cls-2" data-name="Retângulo 104" transform="translate(8 19.986)"/>
+        <circle id="Elipse_37" cx="2" cy="2" r="2" class="cls-2" data-name="Elipse 37" transform="translate(36 29.986)"/>
+        <circle id="Elipse_38" cx="2" cy="2" r="2" class="cls-2" data-name="Elipse 38" transform="translate(44 29.986)"/>
+        <path id="Caminho_167" d="M116 104.99a2 2 0 1 1 1.987 2 2 2 0 0 1-1.987-2z" class="cls-1" data-name="Caminho 167" transform="translate(-64 -73.004)"/>
+    </g>
+</svg>
