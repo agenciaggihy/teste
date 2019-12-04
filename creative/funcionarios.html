@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <title>Funcionarios</title>
+  </head>
+  <body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="./assets/img/onisys_logo.svg"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  </div>
+</nav>
+<!-- Fim de navbar-->
+<div id="wrapper">
+  <div id="sidebar-wrapper">
+    <aside>
+      <img src="./assets/img/avatar-boy.svg">
+      <h3>Maria Antonieta</h3>
+      <h4>Gerente de HR</h4>
+    </aside>
+  </div>
+</div>
+
+<section>
+  <div class="container-fluid">
+    <div class="row mb-5">
+      <div class="col-xd-10 col-lg-9 col-md8 ml-auto">
+        <div class="row">
+          <div class="col-12">
+            <div class="page-header">
+              <h3 class="text-muted text"style="
+                  margin-top: 79px;
+                  margin-left: -86px;
+              ">Funcionários (140 cadastrados)</h3>       
+            <div id="acoes" class="text-right" style="margin-bottom: 10px;">   
+                <a href="iu_Componentes.php" class="btn ">
+                    Adicionar novo funcionário <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                </a>        
+            </div>
+            </div>
+             <div class="form-check">
+            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+            <label class="form-check-label" for="exampleRadios1">
+              Selecionar todos
+            </label>
+          </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    <!--Lista de Funcionarios-->
+    <div class="container-fluid">
+      <div class="row-mb-5">
+        <div class="col-xd-10 col-lg-9 col-md8 ml-auto">
+          <div class="card">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Nome</th>
+                <th scope="col">Função</th>
+                <th scope="col">Área</th>
+                <th scope="col">Data de Admissão</th>
+                <th scope="col">Pontuação</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>Adriano Peres Souza</th>
+                <td>Trabalhador 1</td>
+                <td>Area 51</td>
+                <td>Janeiro de 2017</td>
+                <td>30</td>
+              </tr>
+              <tr>
+
+            </tbody>
+          </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Fim-->
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
+<style>
+  body{
+    background-color: #f2f2f2;
+  }
+  .bg-light {
+    background-color: #373f54 !important;
+}
+.navbar{
+  height: 80px;
+}
+.navbar-brand img{
+  width: 68%;
+}
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+@media (min-width: 992px) {
+    #wrapper {
+        padding-left: 225px;
+    }
+}
+
+@media (min-width: 992px) {
+    #wrapper #sidebar-wrapper {
+        width: 225px;
+    }
+}
+
+#sidebar-wrapper {
+    border-right: 1px solid #e7e7e7;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 225px;
+    width: 0;
+    height:1000px;
+    margin-left: -225px;
+    overflow-y: auto;
+    background: #f8f8f8;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+}
+
+#sidebar-wrapper .sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 225px;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#sidebar-wrapper .sidebar-nav li {
+    text-indent: 0;
+    line-height: 45px;
+}
+
+#sidebar-wrapper .sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #428bca;
+}
+aside img{
+  width: 150px;
+    height: 150px;
+    margin-top: 24px;
+    margin-left: 32px;
+}
+aside h3{font-family: Texta;
+font-size: 21px;
+text-align: center;
+color: #373f54;}
+aside h4{
+  font-family: Texta;
+  font-size: 16px;
+  text-align: center;
+  color: #373f54;
+}
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #c8cad0;
+}
+.btn {
+    color: #fff;
+    background-color: #878b98;
+    /* border-color: #28a745; */
+    width: 320px;
+    height: 50px;
+    border-radius: 14px;
+    font-size: 21px;
+    font-family: Texta;
+  }
+.text-right{margin-top: -42px;}
+.form-check{
+      margin-left: -66px;
+}
+.ml-auto.card{
+  width: 1600px
+  height:577px;
+  border-radius: 12px
+      margin-left: -102px;
+}
+</style>
