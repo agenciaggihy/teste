@@ -54,23 +54,34 @@
           margin-left: 10px;
         }
 
+        a.btn {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
         h4.title{
             color: #007bff;
             text-align: -webkit-center;
         }
 
-        .footer-card {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 40%;
+        .img-tick {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
 
-        .footer-card button {
-            margin: 10px;
+        .card .card-body {
+            width: 70%;
+            padding: 11px;
+        }
+
+        .card .pontos {
+            width: 30%;
+            padding: 11px;
         }
     </style>
-    <title>Report 2</title>
+    <title>Report 8</title>
 </head>
 
 <body class="concrete">
@@ -83,33 +94,24 @@
     </div>
 
     <div class="content">
-        <div class="select">
-          <div class="select-item"></div>
-          <div class="select-item"></div>
-          <div class="select-item"></div>
-          <div class="select-item"></div>
-          <div class="select-item"></div>
-        </div>
+        <a class="btn" href="./new-report.html">Registrar novo desvio</a>
         <div class="container clearfix">
-
-            <div class="form-group">
-                <label for="exampleFormControlSelect1">Qual o desvio ocorrido?</label>
-                <select class="form-control" id="exampleFormControlSelect1">
-                  <option>Falta de segurança</option>
-                  <option>Moderado</option>
-                  <option>Grave</option>
-                </select>
-
-                <label for="exampleFormControlSelect1" >Qual a criticidade do desvio?</label>
-                <select class="form-control" id="exampleFormControlSelect1">
-                  <option>Leve</option>
-                  <option>Moderado</option>
-                  <option>Grave</option>
-                </select>
-            </div>
-            <div class="footer-card">
-              <a class="btn" href="./new-report.html">voltar</a>
-              <a class="btn" href="./new-report3.html">confirmar</a>
+            <div class="card">
+                <div style="display: -webkit-box;">
+                    <div class="card-body">
+                        <h6 class="card-category">Report #</h6>
+                        <p><span>O que esta sendo registrado<br>Nível de criticidade <br>Tipo de acidente</span></p>
+                    </div>
+                    <div class="pontos">
+                      <div style="height: 100%; border-left: 4px solid #ff7f00;">
+                        <h2 style="margin-inline-start: 10px;">-15</h2>
+                        <p style="margin-inline-start: 5px;">pontos</p>
+                      </div>
+                    </div>
+                </div>
+                <div class="card-footer" data-toggle="modal" data-target="#myModal2">
+                      <img src="./assets_1/img/arrow_down.svg" class="img-tick">
+                </div>
             </div>
         </div>
     </div>
@@ -140,6 +142,28 @@
         </div>
     </div>
 
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title">
+                Report #
+                <p><span>O que esta sendo registrado<br>Nível de criticidade <br>Tipo de acidente</span></p>
+            </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <i class="material-icons">clear</i>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger btn-link" data-dismiss="modal"><img src="./assets_1/img/arrow_down.svg" class="img-tick"></button>
+        </div>
+      </div>
+    </div>
+  </div>
 </body>
 
 <!-- JavaScript (Opcional) -->
