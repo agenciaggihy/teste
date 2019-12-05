@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-formulário_verde">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="formulário_verde" data-name="formulário verde" clip-path="url(#clip-formulário_verde)">
+    <rect width="80" height="80" fill="#fff"/>
+    <g id="Grupo_241" data-name="Grupo 241" transform="translate(-220 -146)">
+      <path id="Caminho_146" data-name="Caminho 146" d="M30.5,26.99a5,5,0,0,0-5,5v46a5,5,0,0,0,5,5h40a5,5,0,0,0,5-5v-46a5,5,0,0,0-5-5h-7v-4H55.4a5,5,0,0,0-9.8,0H37.5v4h-7Zm30,3a2.006,2.006,0,0,1-2,2h-16a2.006,2.006,0,0,1-2-2v-4h8v-2a2,2,0,0,1,4,0v2h8Zm3,0h5.92a3.081,3.081,0,0,1,3.08,3.08V76.91a3.081,3.081,0,0,1-3.08,3.08H31.58a3.081,3.081,0,0,1-3.08-3.08V33.07a3.081,3.081,0,0,1,3.08-3.08H37.5a5,5,0,0,0,5,5h16A5,5,0,0,0,63.5,29.99Z" transform="translate(209.5 135.01)" fill="#babf1c" fill-rule="evenodd"/>
+      <rect id="Retângulo_100" data-name="Retângulo 100" width="24" height="2" transform="translate(253 179)" fill="#babf1c"/>
+      <circle id="Elipse_34" data-name="Elipse 34" cx="2" cy="2" r="2" transform="translate(243 178)" fill="#babf1c"/>
+      <rect id="Retângulo_101" data-name="Retângulo 101" width="24" height="2" transform="translate(253 191)" fill="#babf1c"/>
+      <path id="Caminho_164" data-name="Caminho 164" d="M2,0A2,2,0,1,1,0,2,2,2,0,0,1,2,0Z" transform="translate(243 190)" fill="#babf1c"/>
+      <rect id="Retângulo_102" data-name="Retângulo 102" width="24" height="2" transform="translate(253 203)" fill="#babf1c"/>
+      <circle id="Elipse_36" data-name="Elipse 36" cx="2" cy="2" r="2" transform="translate(243 202)" fill="#babf1c"/>
+    </g>
+  </g>
+</svg>

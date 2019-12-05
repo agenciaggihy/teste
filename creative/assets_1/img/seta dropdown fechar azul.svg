@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-seta_dropdown_fechar">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="seta_dropdown_fechar" data-name="seta dropdown fechar" clip-path="url(#clip-seta_dropdown_fechar)">
+    <rect width="40" height="40" fill="#fff"/>
+    <g id="Grupo_138" data-name="Grupo 138" transform="translate(252.918 -160.78) rotate(90)">
+      <path id="Caminho_48" data-name="Caminho 48" d="M184.3,239.918a1.712,1.712,0,0,1-.858-.23l-7.129-4.116a3.064,3.064,0,0,1,0-5.307l7.129-4.116a1.718,1.718,0,1,1,1.718,2.975l-6.571,3.794,6.571,3.794a1.718,1.718,0,0,1-.86,3.206Z" fill="#878b98"/>
+    </g>
+  </g>
+</svg>

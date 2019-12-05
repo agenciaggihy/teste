@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-_8_Avatar_2">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="_8_Avatar_2" data-name="8 Avatar – 2" clip-path="url(#clip-_8_Avatar_2)">
+    <rect width="40" height="40" fill="#fff"/>
+    <g id="Grupo_270" data-name="Grupo 270" transform="translate(-161 -558)">
+      <path id="Subtração_5" data-name="Subtração 5" d="M8,14H2L0,0H10L8,14ZM2,2,3.448,12H6.573L8,2H2Z" transform="translate(176 566)" fill="#373f54"/>
+      <path id="Subtração_10" data-name="Subtração 10" d="M15,8A46.857,46.857,0,0,1,0,5V0H30V5A46.937,46.937,0,0,1,15,8ZM2,2V3.818A52.069,52.069,0,0,0,15,6,52.305,52.305,0,0,0,28,3.818V2Z" transform="translate(166 582)" fill="#373f54"/>
+      <path id="Subtração_9" data-name="Subtração 9" d="M2,16H0A14.025,14.025,0,0,1,9.4,2.771L9.685,4.8A12.027,12.027,0,0,0,2,16Zm26,0H26A12.027,12.027,0,0,0,18.315,4.8L18.6,2.771A14.026,14.026,0,0,1,28,16Z" transform="translate(167 566)" fill="#373f54"/>
+      <rect id="Retângulo_12" data-name="Retângulo 12" width="2" height="8" transform="translate(172.453 571.178) rotate(-8)" fill="#373f54"/>
+      <rect id="Retângulo_13" data-name="Retângulo 13" width="2" height="8" transform="translate(187.566 570.9) rotate(8)" fill="#373f54"/>
+    </g>
+  </g>
+</svg>

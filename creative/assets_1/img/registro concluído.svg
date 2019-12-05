@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-registro_concluído">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="registro_concluído" data-name="registro concluído" clip-path="url(#clip-registro_concluído)">
+    <rect width="120" height="120" fill="#fff"/>
+    <g id="tick-inside-circle" transform="translate(10 10)">
+      <g id="check-circle-outline">
+        <path id="Caminho_19" data-name="Caminho 19" d="M29.5,40.5l-7,7L45,70,95,20l-7-7L45,56ZM90,50A40,40,0,1,1,50,10a38.993,38.993,0,0,1,11,1.5l8-8A60.857,60.857,0,0,0,50,0a50,50,0,1,0,50,50Z" fill="#babf1c"/>
+      </g>
+    </g>
+  </g>
+</svg>

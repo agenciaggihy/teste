@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-seta_direita">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="seta_direita" data-name="seta direita" clip-path="url(#clip-seta_direita)">
+    <rect width="40" height="40" fill="#fff"/>
+    <path id="Caminho_178" data-name="Caminho 178" d="M23.414,21.414,30,14.828V34a2,2,0,0,0,4,0V14.828l6.586,6.586a2,2,0,0,0,2.828-2.828l-10-10a2,2,0,0,0-2.828,0l-10,10a2,2,0,1,0,2.828,2.828Z" transform="translate(42 -12) rotate(90)" fill="#373f54"/>
+  </g>
+</svg>

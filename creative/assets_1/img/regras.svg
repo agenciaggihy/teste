@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="regras azul.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="2.95"
+     inkscape:cx="40"
+     inkscape:cy="40"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip-regras_azul">
+      <rect
+         width="80"
+         height="80"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(2.2020339,15.01695)"
+     id="security">
+    <g
+       transform="translate(13.12,-2)"
+       data-name="Grupo 244"
+       id="Grupo_244">
+      <path
+         style="fill:#373f54"
+         inkscape:connector-curvature="0"
+         transform="translate(-13.153,2)"
+         d="M 61.144,11.9 C 61.12,10.442 61.096,9.065 61.096,7.732 a 1.79,1.79 0 0 0 -1.669,-1.89 c -7.139,0 -16.579,-2.323 -21.11,-7.311 a 1.533,1.533 0 0 0 -2.328,0 c -4.53,4.988 -13.97,7.311 -21.108,7.311 a 1.79,1.79 0 0 0 -1.669,1.89 c 0,1.333 -0.023,2.71 -0.048,4.169 -0.23,13.572 3.461,34.154 23.442,41.999 a 1.484,1.484 0 0 0 1.093,0 C 57.681,46.054 61.373,25.472 61.144,11.9 Z M 37.153,50.1 C 20.017,43.056 16.272,25.616 16.5,11.977 c 0.014,-0.819 0.027,-1.612 0.037,-2.39 6.686,-0.32 16.038,-2.614 20.615,-7.128 4.578,4.515 13.93,6.809 20.617,7.128 0.009,0.777 0.023,1.57 0.036,2.388 0.23,13.641 -3.515,31.081 -20.652,38.125 z"
+         data-name="Caminho 174"
+         id="Caminho_174" />
+      <path
+         style="fill:#373f54"
+         inkscape:connector-curvature="0"
+         transform="translate(-52.512,-55.886)"
+         d="m 81.862,79.352 -7.5,7.688 -3.2,-3.281 a 1.527,1.527 0 0 0 -2.2,0 1.621,1.621 0 0 0 0,2.253 l 4.3,4.407 a 1.527,1.527 0 0 0 2.2,0 l 8.6,-8.814 a 1.621,1.621 0 0 0 0,-2.253 1.527,1.527 0 0 0 -2.2,0 z"
+         data-name="Caminho 175"
+         id="Caminho_175" />
+    </g>
+  </g>
+</svg>

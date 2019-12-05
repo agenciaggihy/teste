@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-report_1">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="report_1" data-name="report 1" clip-path="url(#clip-report_1)">
+    <rect width="40" height="40" fill="#fff"/>
+    <g id="Grupo_269" data-name="Grupo 269" transform="translate(-107 -565.032)">
+      <path id="Composite_Path" data-name="Composite Path" d="M126.3,579h17.4a1.3,1.3,0,0,1,1.3,1.3v10.4a1.3,1.3,0,0,1-1.3,1.3h-6.035L135,596l-2.665-4H126.3a1.3,1.3,0,0,1-1.3-1.3V580.3A1.3,1.3,0,0,1,126.3,579ZM123,591.45a2.55,2.55,0,0,0,2.55,2.55H131l4,6,4-6h5.45a2.55,2.55,0,0,0,2.55-2.55v-11.9a2.55,2.55,0,0,0-2.55-2.55h-18.9a2.55,2.55,0,0,0-2.55,2.55Z" transform="translate(-8 -2.968)" fill="#373f54"/>
+      <rect id="Path" width="2" height="2" transform="translate(122 582.032)" fill="#373f54"/>
+      <rect id="Path-2" data-name="Path" width="2" height="2" transform="translate(126 582.032)" fill="#373f54"/>
+      <rect id="Path-3" data-name="Path" width="2" height="2" transform="translate(130 582.032)" fill="#373f54"/>
+    </g>
+  </g>
+</svg>
